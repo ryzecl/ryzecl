@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0284c7&height=200&section=header&text=Ferry%20Noer%20Hendriawan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20%E2%80%A2%20Full%20Stack%20Developer&descSize=16&descAlignY=60" alt="Ferry Noer Hendriawan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Ferry%20Noer%20Hendriawan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Systems%20%E2%80%A2%20Full%20Stack%20Developer&descSize=16&descAlignY=60&descColor=38bdf8" alt="Ferry Noer Hendriawan" width="100%" />
 
 <br>
 
@@ -115,5 +115,5 @@ const developer = {
 <div align="center">
   <sub>✨ Designed & built with care by <a href="https://github.com/ryzecl">@ryzecl</a></sub>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0d1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=100&section=footer" width="100%" />
 </div>
