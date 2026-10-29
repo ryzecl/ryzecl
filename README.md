@@ -28,7 +28,9 @@
 ```typescript
 const developer = {
   name: "Ferry Noer Hendriawan",
-  role: "Informatics Student & Full-Stack Developer",
+  university: "Horizon University Indonesia",
+  major: "Information Systems",
+  role: "Full-Stack Developer · Co-Founder @ JDNirwana",
   portfolio: "https://ferryhendriawan.my.id",
   currentFocus: [
     "Modern Full-Stack Web (Laravel 12/13, Inertia.js, Next.js, Vue)",
@@ -36,7 +38,7 @@ const developer = {
     "Cross-Platform Mobile Apps (Flutter, React Native Expo)"
   ],
   motto: "Keep exploring, build things with clean code, and never stop learning.",
-  status: "🚀 Open for collaboration & interesting projects"
+  status: "🚀 Open to internship opportunities & collaboration"
 };
 ```
 
